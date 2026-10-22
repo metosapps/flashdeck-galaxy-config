@@ -5,5 +5,6 @@
   "global": {"maintenance_mode": false, "maintenance_message": "FlashDeck is temporarily unavailable. Please try again later."},
   "android": {"min_supported_version_code": 1, "latest_version_code": 5, "update_mode": "none"},
   "ads": {"ad_mode": "test", "production_ads_approved": false, "settings_banner_enabled": true, "settings_banner_unit_id": ""},
-  "kill_switches": {"ads_enabled": true, "iap_enabled": true}
+  "kill_switches": {"ads_enabled": true, "iap_enabled": true},
+  "links": {"support_email": "chennoufo11@gmail.com", "privacy_policy": "https://metosapps.github.io/flashdeck-galaxy-config/#privacy", "terms": "https://metosapps.github.io/flashdeck-galaxy-config/#terms"}
 }
